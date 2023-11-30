@@ -47,7 +47,7 @@ namespace class_ev_1
             string evturu= Convert.ToString(btnEv.Text);
 
 
-            Emlak emlak=new Emlak("","3","Petek","6 kat","Beşiktaş","var","2.katta","var","3","evet","30.10","7","3 gün önce","3","boş","4","","","","","","","",)
+            Emlak emlak=new Emlak("33 milyon","3 yıl","Petek","6 katlı","Beşiktaş","var 2. katta","2.katta","var içerde","3.kat","evet","300","7 odalı","3 gün önce","3 tane banyo var (ebeveyn banyosu,çocuk banyosu,misafir banyosu)","boş","4"," 10.10 metrekare ,var","var","deniz manzalı ve beşiktaş stadyumuna bakan","akat","apartman ")
 
 
 
